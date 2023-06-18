@@ -1,4 +1,4 @@
-# dkeeper
+# Notes-keeper-v2
 Notes Keeper Web-3 Application , Built using Reactjs frontend and ICP blockchain for the Backend.This is just an updated version of the notes keeper app that i built previously with reactjs and withot any backend. But this project uses ICP blockchain as the blockchain to save the notes in canister ,so that the notes data is not lost.
 
 ## How to run the project locally
